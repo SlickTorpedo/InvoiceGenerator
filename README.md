@@ -2,7 +2,9 @@
 
 This is a really simple invoice generator for your customers!
 
-**NOTE**
+#
+
+**IMPORTANT**
 
 If your page looks like this: <br><br>
 <img src="https://nexussociety.net/invoices/img/example.png"/>
@@ -17,6 +19,10 @@ Also, for multiple arguments the first one is ?argument=Value but then after tha
 
 ```?argument=Value&argument2=OtherValue&argument3=OtherNeatValue```
 
+#
+
 For questions contact ```Slick#7454``` on discord!
+
+#
 
 This code is open source, you may modify it as you wish! If you don't give me credit there's nothing I can do about it but it would be nice if you did :)
