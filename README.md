@@ -15,7 +15,7 @@ To fix this, just add ```?companyname=WhateverYourCompanyIsCalledHere``` to your
 
 Also, for multiple arguments the first one is ?argument=Value but then after that the url will become
 
-?argument=Value&argument2=OtherValue&argument3=OtherNeatValue
+```?argument=Value&argument2=OtherValue&argument3=OtherNeatValue```
 
 For questions contact ```Slick#7454``` on discord!
 
