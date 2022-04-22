@@ -4,7 +4,7 @@ This is a really simple invoice generator for your customers!
 
 **NOTE**
 
-If your page looks like this:\n
+If your page looks like this: <br>
 <img src="https://nexussociety.net/invoices/img/example.png"/>
 
 It's nothing wrong with the code! You need to specify your variables.
